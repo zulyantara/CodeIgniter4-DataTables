@@ -1,5 +1,5 @@
 {
-    "name": "hermawan/codeigniter4-datatables",
+    "name": "zulyantara/codeigniter4-datatables",
     "description": "Serverside Datatables library for CodeIgniter4",
     "type": "library",
     "require": {
@@ -10,8 +10,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Hermawan Ramadhan",
-            "email": "hermawanramadhan@gmail.com"
+            "name": "Zulyantara",
+            "email": "zulyantara@gmail.com"
         }
     ],
     "autoload": {
