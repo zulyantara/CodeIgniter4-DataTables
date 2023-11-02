@@ -174,7 +174,7 @@ class DataTable
             'recordsTotal'      => $this->query->countAll(),
             'recordsFiltered'   => $this->query->countFiltered(),
             'data'              => $this->query->getDataResult(),
-
+            'csrf_hash'         => csrf_hash(),
         ]);
     }
 
